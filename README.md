@@ -1,0 +1,1 @@
+# Aplicación para saber el clima de una ciudad.
